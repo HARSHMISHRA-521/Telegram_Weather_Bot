@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Database Files
-*.sqlite3
+bot.db
 
 # Environment variables
 .env
@@ -26,5 +26,6 @@ instance/
 .idea/
 .vscode/
 
-# Other files
+# OS specific files
 .DS_Store
+Thumbs.db
